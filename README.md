@@ -25,7 +25,6 @@
 
 - **Academic:** 情報処理学会 (IPSJ), 電子情報通信学会 (IEICE), MyDataJapan 学生会員
 - **Community:** LCL-Tokyo, CTF for Girls
-- **Virtual:** IT系VTuberグループ「[ぶいぎーく！](https://vgeekpro.com/)」所属 
 
 ---
 
